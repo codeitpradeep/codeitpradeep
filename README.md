@@ -6,6 +6,6 @@ This is the page to start learn AI, creating the future with AI.
 
 - Introduction to AI ML LLM
 
-  - [01-Course-Introduction](docs/What is LLM and Introduction.md)
+  - [01-Course-Introduction](docs/What_is_LLM_and_Introduction.md)
   - [02-Certification](docs/01-Introduction/02-Certification.md)
 
