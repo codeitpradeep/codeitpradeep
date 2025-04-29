@@ -1,9 +1,10 @@
 # Gen AI by pradeep
 
-These are notes from the [Certified Kubernetes Administrator Course](https://kodekloud.com/courses/certified-kubernetes-administrator-cka/) hosted on KodeKloud.
+This is the page to start learn AI, creating the future with AI.
 
 # Sections
-
+- New
+  - Pradeep
 - [01-Introduction](docs/01-Introduction)
 
   - [01-Course-Introduction](docs/01-Introduction/01-Course-Introduction.md)
